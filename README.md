@@ -40,7 +40,7 @@ A complete **Flask web application** to generate personalized certificates from 
 ---
 
 ## 🧱 Project Structure
-
+```
 certificate/
 │
 ├── app.py
@@ -70,7 +70,7 @@ certificate/
 ├── TimesNewRoman.ttf
 └── requirements.txt
 
-
+```
 ---
 
 ## 📄 Excel File Format
