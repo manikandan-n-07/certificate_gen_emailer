@@ -47,28 +47,29 @@ certificate/
 ├── README.md
 │
 ├── templates/
-│ ├── upload.html
-│ ├── adjust.html
-│ ├── preview.html
-│ ├── email.html
-│ ├── status.html
-│ └── email_template.html
+│   ├── upload.html
+│   ├── adjust.html
+│   ├── preview.html
+│   ├── email.html
+│   ├── status.html
+│   └── email_template.html
 │
 ├── static/
-│ ├── live_preview.png
-│ └── generated/
+│   ├── live_preview.png
+│   └── generated/
 │
 ├── uploads/
-│ └── certificate.png
+│   └── certificate.png
 │
 ├── certificates/
-│ └── pdf/
+│   └── pdf/
 │
 ├── reports/
-│ └── email_report.xlsx
+│   └── email_report.xlsx
 │
 ├── TimesNewRoman.ttf
 └── requirements.txt
+
 
 ---
 
