@@ -1,0 +1,15 @@
+<h2>Email Status</h2>
+
+{% for r in results %}
+<p>
+  <b>{{ r.Email }}</b> →
+  {% if r.Status == "Sent" %}
+    <span style="color:green;">Sent</span>
+  {% else %}
+    <span style="color:red;">Failed ({{ r.Reason }})</span>
+  {% endif %}
+</p>
+{% endfor %}
+
+<br>
+<a href="/download">Download Excel Report</a>
