@@ -16,7 +16,7 @@
 
 ## Table of Contents
 
-- [What is Certificate Generater And Mailer?](#what-is-certificate-generator-and-emailer)
+- [What is Certificate Generater And Mailer?](#what-is-certificate-generator-and-mailer)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
