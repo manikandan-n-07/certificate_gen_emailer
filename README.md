@@ -186,9 +186,9 @@ Your Excel file must have at least these two columns (exact column names require
 
 | Name | Email |
 |---|---|
-| Arun Kumar | arun@example.com |
-| Priya Sharma | priya@example.com |
-| Rahul Verma | rahul@example.com |
+| Lunar | lunar@example.com |
+| Mani | mani@example.com |
+| Manilunar | manilunar@example.com |
 
 > Column headers must be exactly `Name` and `Email` (case-sensitive).
 
