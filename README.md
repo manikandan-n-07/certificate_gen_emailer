@@ -30,7 +30,7 @@
 
 ---
 
-## What is CertMailer?
+## What is Certificate Generater And Mailer?
 
 **CertMailer** is a powerful, easy-to-use web application that automates the entire certificate generation and distribution pipeline. Upload your certificate template, provide an Excel sheet of participants, visually position names with a live preview, generate personalized PDF certificates, and bulk-email them — all from a single browser interface.
 
